@@ -1,110 +1,110 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Solución de la tarjeta de vista previa del blog
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta es una solución al [Blog Preview Card Challenge en Frontend Mentor] (https://www.frontentmentor.io/challenges/blog-preview-card-ckpaj01ics). Los desafíos de Mentor Frontend lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas. 
 
-## Table of contents
+## Tabla de contenido
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Descripción general] (#Descripción general)
+  - [El desafío] (#The-Challenge)
+  - [Captura de pantalla] (#captura de pantalla)
+  - [enlaces] (#enlaces)
+- [mi proceso] (#My-Process)
+  - [construido con] (#construido con)
+  -[Lo que aprendí] (#What-I-Learned)
+  - [Desarrollo continuo] (#de desarrollo continuo)
+  - [Recursos útiles] (#recursos útiles)
+- [Autor] (#Autor)
+- [Agradecimientos] (#Agradecimientos)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+** Nota: Elimine esta nota y actualice la tabla de contenido en función de las secciones que mantiene. **
 
-## Overview
+## Descripción general
 
-### The challenge
+### El desafío
 
-Users should be able to:
+Los usuarios deben poder:
 
-- See hover and focus states for all interactive elements on the page
+- Consulte los estados de Hover y Focus para todos los elementos interactivos en la página
 
-### Screenshot
+### Captura de pantalla
 
-![](./screenshot.jpg)
+! [] (./ captshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Agregue una captura de pantalla de su solución. La forma más fácil de hacerlo es usar Firefox para ver su proyecto, hacer clic con el botón derecho en la página y seleccionar "Tomar una captura de pantalla". Puede elegir una captura de pantalla de altura completa o una recortada en función de cuánto tiempo dura la página. Si es muy largo, podría ser mejor recortarlo.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternativamente, puede usar una herramienta como [Fireshot] (https://getfireshot.com/) para tomar la captura de pantalla. Fireshot tiene una opción gratuita, por lo que no necesita comprarla. 
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+Luego recorte/optimice/edite su imagen como desee, agregue a su proyecto y actualice la ruta del archivo en la imagen de arriba.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+** Nota: elimine esta nota y los párrafos anteriores cuando agrega su captura de pantalla. Si prefiere no agregar una captura de pantalla, no dude en eliminar esta sección completa. **
 
-### Links
+### enlaces
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-URL de solución: [Agregar URL de solución aquí] (https://your-solution-url.com)
+-URL del sitio en vivo: [Agregar URL del sitio en vivo aquí] (https://your-live-site-url.com)
 
-## My process
+## mi proceso
 
-### Built with
+### construido con
 
-- Semantic HTML5 markup
-- CSS custom properties
+- marcado semántico HTML5
+- Propiedades personalizadas de CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Grid CSS
+- flujo de trabajo móvil primero
+- [React] (https://reactjs.org/) - Biblioteca JS
+- [next.js] (https://nextjs.org/) - React Framework
+- [Componentes de estilo] (https://styled-components.com/) - para estilos
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+** Nota: estos son solo ejemplos. Elimine esta nota y reemplace la lista de arriba con sus propias opciones **
 
-### What I learned
+### Lo que aprendí
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Use esta sección para recapitular algunos de sus principales aprendizajes mientras trabaja en este proyecto. Escribirlos y proporcionar muestras de código de áreas que desea destacar es una excelente manera de reforzar su propio conocimiento.
 
-To see how you can add code snippets, see below:
+Para ver cómo puede agregar fragmentos de código, vea a continuación:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
+`` `HTML
+<h1> algún código HTML del que estoy orgulloso </h1>
+`` `` ``
+`` `CSS
+.proud-of-this-CSS {
+  Color: Papayawhip;
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+`` `` ``
+`` `JS
+const orgullosfthisftisFun = () => {
+  console.log ('🎉')
 }
-```
+`` `` ``
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Si desea más ayuda para escribir Markdown, le recomendamos visitar [la guía de Markdown] (https://www.markdownguide.org/) para obtener más información.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+** Nota: elimine esta nota y el contenido dentro de esta sección y reemplace con sus propios aprendizajes. **
 
-### Continued development
+### Desarrollo continuo
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Use esta sección para describir las áreas en las que desea continuar enfocándose en proyectos futuros. Estos podrían ser conceptos con los que aún no se siente completamente cómodo o técnicas que le parezca útiles que desea refinar y perfecta.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+** Nota: elimine esta nota y el contenido dentro de esta sección y reemplace con sus propios planes para el desarrollo continuo. **
 
-### Useful resources
+### Recursos útiles
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Ejemplo de recurso 1] (https://www.example.com) - Esto me ayudó por la razón XYZ. Realmente me gustó este patrón y lo usaré en el futuro.
+- [Ejemplo de recurso 2] (https://www.example.com) - Este es un artículo increíble que me ayudó a comprender finalmente XYZ. Se lo recomendaría a cualquiera que todavía aprenda este concepto.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+** Nota: elimine esta nota y reemplace la lista anterior con recursos que lo ayudaron durante el desafío. Estos podrían ser útiles para cualquiera que vea su solución o por usted mismo cuando recuerde este proyecto en el futuro. **
 
-## Author
+## Autor
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Sitio web - [Agregue su nombre aquí] (https://www.your-site.com)
+- Frontend Mentor - [@YourUsername] (https://www.frontentmentor.io/profile/yourusername)
+- Twitter - [@YourUsername] (https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+** Nota: Elimine esta nota y agregue/elimine/edite las líneas anteriores en función de los enlaces que le gustaría compartir. **
 
-## Acknowledgments
+## Agradecimientos
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Aquí es donde puedes darle una punta de sombrero a cualquiera que te haya ayudado en este proyecto. Quizás trabajaste en un equipo o te inspiraste en la solución de otra persona. Este es el lugar perfecto para darles algo de crédito.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+** Nota: elimine esta nota y edite el contenido de esta sección según sea necesario. Si completó este desafío usted mismo, no dude en eliminar esta sección por completo. **
